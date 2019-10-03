@@ -1,0 +1,6 @@
+[
+	{
+		"cameraCode": 0,
+		"type": "native"
+	}
+]
